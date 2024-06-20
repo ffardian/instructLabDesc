@@ -1,0 +1,98 @@
+version: 2
+task_description: 'Teach the model the company information about Nestle Healthscience'
+created_by: ffardian
+domain: companies
+seed_examples:
+ - question: When Nestle Health Science was founded?
+   answer: |
+     Nestlé Health Science was founded in 2011 by people passionate about the power of nutrition.
+     Since then, we've changed a lot as a company,
+     but our commitment to healthier lives certainly hasn't.
+     From newborn babies to the most senior citizens,
+     we provide nutrition and nourishment where it's needed most.
+ - question: How does the Nestle Health Science leadership consists of?
+   answer: |
+     - Anna Mohl: Chief Executive Officer.
+     - Rania Abou Samra: Global Head of Product Technology and Development
+     - René Augstburger: Head of Strategy & Business Acceleration.
+     - Florent Bondoux: Global Head of Digital, e-health and e-commerce.
+     - Abigail Buckwalter: CEO Nestlé Health Science USA
+     - Cecily Gu: BEO Nestlé Health Science Greater China Region and
+     Global Head of Strategy, Marketing and Innovation for Medical Nutrition
+     - Martin Halbeis: Head of Nestlé Health Science International
+     - Martin Hendrix: Head of Global Business Development and M&A
+     - Claudio Kuoni: General Counsel
+     - Matthias Lohner: Global Head of Operations
+     - Aileen Stocks: Global Head of Strategy, Marketing and
+     Innovation for Vitamins, Minerals, Herbals and Supplements
+     - Anneke Verheul: Head of Human Resources and Corporate Communications.
+ - question: Which additional brands does Nestle Healthsciece have?
+   answer: |
+     Medical nutrition
+     - PEPTAMEN
+     - VITAFLO
+     - ISOSOURCE
+     - ALTHÉRA® HMO
+     - RESOURCE
+     - COMPLEAT
+
+     Active lifestyle nutrition
+     - NATURE’S BOUNTY
+     - BOOST
+     - VITAL PROTEINS
+     - GARDEN OF LIFE
+     - SOLGAR
+     - PURE ENCAPSULATIONS®
+ - question: What is the goal of Nestle Healthscience?
+   answer: |
+     We want people to live their healthiest lives,
+     through nutrition rooted in science.
+     We have a range of brands to help them do this across
+     over 140 countries—but we're not stopping there.
+     By expanding our offering around the globe and constantly
+     working on the latest nutritional innovations,
+     we'll be helping more and more people maintain or
+     improve their health, while proving ourselves as
+     leaders in the science of nutrition.
+ - question: What does Nestle Health Science get sustainable?
+   answer: |
+     All our factories reduced their landfill waste to zero,
+     and over the last decade we've made big reductions to our
+     greenhouse gas emissions and water usage. By 2025,
+     we aim to run our entire company on renewable energy,
+     while making every bit of our packaging recyclable or reusable.
+ - question: Is Nestle Health Science a sub-company of Nestle?
+   answer: |
+     We're a globally managed business within Nestlé,
+     and play a key role in its nutrition,
+     health and wellness strategy. That means we benefit from all
+     the great resources of the Nestlé Group,
+     while having the freedom to pursue our own opportunities.
+ - question: Whats the whole story of Nestle Healthscience?
+   answer: |
+     Built on decades of innovation and dedication,
+     Nestlé Health Science was founded in 2011 by people passionate
+     about the power of nutrition. Since then,
+     we've changed a lot as a company, but our commitment
+     to healthier lives certainly hasn't.
+     From newborn babies to the most senior citizens,
+     we provide nutrition and nourishment where it's needed most.
+     And to achieve that, it all comes down to science.
+     Through extensive research and development,
+     working with healthcare providers and focusing on innovation,
+     we’re bringing the latest advances in nutrition to the world,
+     because we're committed to customers,
+     patients and caregivers everywhere.
+     We'll help them live their lives at their best—that's a promise.
+ - question: Where are Nestles Healthscience products sold?
+   answer: |
+     You'll find our products in more than 140 countries,
+     brought to you by a team of 11,000 employees dedicated to the power of nutrition.
+     We work with a vast network of scientific researchers and developers,
+     keeping our products at the cutting edge.
+     With 18 factories around the world, our global supply chain is constantly growing.
+document:
+ repo: https://github.com/ffardian/instructLabDesc.git
+ commit: 6dbace42565f57f602efccada287fb5512031e06
+ patterns:
+  - data.md
