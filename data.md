@@ -188,7 +188,9 @@ training in accessible formats on the risks of discrim-
 ination, violence and harassment at work and the
 associated prevention and protection measures. 
 3.2 Work is conducted on a voluntary basis
+
 Substantive Requirements 
+
 3.2.1 Under no circumstance is forced labor used. This
 includes trafficked labor, prison labor, bonded labor or
 other forms of forced labor. 
@@ -205,8 +207,10 @@ by the employer.
 port, identity card, birth certificate, work or residence
 permit or other travel documents) is prohibited. Where
 presentation of these documents is required by law,
-they are returned as soon as possible to the worker.
+they are returned as soon as possible to the worker. 
+
 Management Systems Requirements 
+
 3.2.6 Policies and processes are in place to ensure that work-
 ers are entering into employment freely, that they are
 not prevented from leaving their job if they so wish and
@@ -232,7 +236,9 @@ the worker.
 conditions, including nature of work, hours, overtime,
 pay, benefits, leave, and duration of the contract in a
 format and language that the workers understand.
+
 Management Systems Requirements 
+
 3.3.3 Policies and processes are in place to ensure that all
 workers are provided with an employment contract that
 they understand and have freely agreed to.
@@ -244,15 +250,19 @@ containing the following information in respect of each
 worker: full name, sex, date of birth, and wages paid. 
 3.4 The minimum age of employment is respected,
 and young workers are protected
+
 Substantive Requirements 
+
 3.4.1 No child aged 15 or below is employed. 
 3.4.2 Children aged 13 or over (or aged 12 or over in countries
 that have set the minimum age of employment at 14)
 can perform only light work where this is permitted by
 local law. 
 3.4.3 No child (defined as all persons under the age of 18) carries
-out hazardous work or other worst forms of child labor.
-Management Systems Requirements. 
+out hazardous work or other worst forms of child labor. 
+
+Management Systems Requirements.
+
 3.4.4 A policy is in place, which, at the minimum, stipulates
 the minimum age for all workers, the conditions under
 which young workers can be employed and the reme-
@@ -268,8 +278,10 @@ place and implemented.
 labor to increase their participation in risk prevention
 and mitigation decisions and activities. 
 3.5 Workers are free to form and/or join a trade union
-and to bargain collectively
+and to bargain collectively 
+
 Substantive Requirements 
+
 3.5.1 Workers can freely exercise their right to form or join a
 union of their choice, to seek representation and col-
 lectively bargain and can do so without fear of intimida-
@@ -286,7 +298,9 @@ gaining are allowed.
 3.5.4 Collective bargaining negotiations are entered into in
 good faith when this is requested by any legally recog-
 nized representative group of workers.
+
 Management Systems Requirements. 
+
 3.5.5 Policies and processes are in place to uphold workers’
 freedom of association and the effective recognition of
 the right to collectively bargain. These should ensure
@@ -297,7 +311,9 @@ resources) are trained on freedom of association and
 collective bargaining. 
 3.6 Workers are provided with a healthy and safe work-
 place environment
+
 Substantive Requirements 
+
 3.6.1 Workers are provided with a safe and healthy work-
 place environment to prevent work-related accidents,
 injuries and illnesses. The same applies to housing,
@@ -313,7 +329,9 @@ an emergency.
 3.6.4 Workers are provided with adequate access to free
 and safe water, sanitation and hygiene (WASH) at the
 workplace and any provided housing.
+
 Management Systems Requirements 
+
 3.6.5 Occupational health and safety (OHS) policies and
 processes are in place to adequately identify, assess
 and effectively prevent work-related accidents, injuries
@@ -342,7 +360,9 @@ implemented to prevent recurrence.
 access to free WASH in the workplace environment
 and any provided housing. 
 3.7 Working hours are legal and decent
+
 Substantive Requirements 
+
 3.7.1 Total weekly working hours, including overtime, may
 exceed local legal requirements or 60 hours, whichever
 is stricter, only in the following circumstances:
@@ -363,7 +383,9 @@ a rest day due to a genuine need for continuity of pro-
 duction or service, workers must receive an equivalent
 period of compensatory rest immediately following so as
 to ensure a minimum of two days’ rest in every 14 days.
+
 Management Systems Requirements 
+
 3.7.4 A written policy on working hours is in place and
 communicated to workers. It stipulates that overtime
 is voluntary. 
@@ -378,7 +400,9 @@ overtime for all workers is in place and implemented.
 This includes recording and documenting workers’
 consent to perform overtime. 
 3.8 Workers’ compensation is fair
+
 Substantive Requirements 
+
 3.8.1 Wages and benefits (including in-kind) paid for a stan-
 dard working week meet at least the legal or industry
 minimum standards, or the requirements set out in
@@ -398,7 +422,9 @@ rate, quotas or similar, the pay rate allows the worker to
 earn at least the legal or industry minimum standards,
 or the amount specified in collective bargaining agree-
 ments (where applicable), whichever is higher.
+
 Management Systems Requirements 
+
 3.8.6 A written policy on compensation is in place and
 communicated to workers in a language and format
 they understand. 
@@ -420,7 +446,9 @@ resources) are trained to ensure they understand and
 can implement the relevant policies and processes. 
 3.9 The land and resources of Indigenous peoples
 and local communities are respected
+
 Substantive Requirements 
+
 3.9.1 The right to use the land is substantiated by applicable
 documents demonstrating ownership, lease, or use, or
 accepted customary rights. 
@@ -441,7 +469,9 @@ their rights, lands, resources, territories, livelihoods,
 or food security, IPLCs are compensated or accom-
 modated through appropriate measures reflecting the
 negotiated outcomes of an FPIC process.
+
 Management Systems Requirements 
+
 3.9.5 A written policy is in place on respecting the land and
 resource rights of IPLCs, including zero tolerance for
 land grabbing and measures for the protection of envi-
@@ -471,7 +501,9 @@ processes.
 3.10 Workers and affected rightsholders have access
 to effective grievance mechanisms and processes
 for remedy
+
 Substantive Requirements 
+
 3.10.1 A transparent and fair grievance mechanism is in place.
 It is open to all stakeholders that could be affected by
 the company’s operations or business relationships,
@@ -489,7 +521,9 @@ ations or supply chain. This may include workers and
 their representatives, IPLCs or HRDs. 
 3.10.5 Grievances are addressed in an effective, timely, trans-
 parent and equitable manner.
+
 Management Systems Requirements 
+
 3.10.6 A written policy that states that workers or whis-
 tle-blowers who report grievances will be protected
 from retaliation is in place. 
